@@ -1,5 +1,5 @@
 M Mole
 N Newt
-O Orange
+O Owls
 P Panda
 T Tapir
